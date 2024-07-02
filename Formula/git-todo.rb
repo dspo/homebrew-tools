@@ -5,7 +5,7 @@ class GitTodo < Formula
   desc "git todo extension"
   homepage "https://github.com/dspo/git-todo"
   url "https://github.com/dspo/homebrew-git-todo/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "7ebc6843def860b673919614a68fff86ae82f3de80064c7c6fc96996d911a086"
+  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   license ""
   version "0.0.1"
   depends_on "rust" => :build
