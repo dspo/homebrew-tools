@@ -4,8 +4,9 @@
 class GitTodo < Formula
   desc "git todo extension"
   homepage "https://github.com/dspo/git-todo"
-  url "https://github.com/dspo/git-todo/archive/refs/tags/v0.0.1.tar.gz"
-  sha256 "4942295c1b167b3e14f09df29bb296df825f9b84f3fac1372fd20d23a583cfe1"
+  url "https://github.com/dspo/git-todo/archive/refs/tags/v0.0.2.tar.gz"
+  version "v0.0.2"
+  sha256 "828b674f18a9861fd320aac54b8efc7260296a54cc3fb1c9f9f7b5d709d2e18e"
   license "MIT"
 
   depends_on "rust" => :build
